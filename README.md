@@ -1,4 +1,4 @@
-### Olá! Eu sou a Inara Carodoso 👋
+### Olá! Eu sou a Inara Cardoso 👋
 
 ### Sobre mim 🚀:
 Atualmente estou me desenvolvendo em Front-end e buscando tambem ser Full-Stack, amo tecnologia busco aprender cada vez mais, tenho muita vontade em estudar e adquirir conhecimento amplo. <br/>
