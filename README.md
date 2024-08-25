@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">❤ Sobre mim:<br><br>- 📚 Atualmente estudando Engenharia de Software na Universidade Cruzeiro do Sul<br>- 💼 Buscando estágios e oportunidades na área de Full-Stack, Analista De Dados<br>- 🌟 Sempre interessada em aprender novas tecnologias e colaborar em projetos interessantes.</h4>
+<h4 align="left">❤ Sobre mim:<br><br>- 📚 Atualmente estudando Engenharia de Software na Universidade Cruzeiro do Sul.<br>- 💼 Buscando estágios e oportunidades na área de Full-Stack, Analista De Dados.<br>- 🌟 Sempre interessada em aprender novas tecnologias e colaborar em projetos interessantes.</h4>
 
 ###
 
