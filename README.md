@@ -2,7 +2,11 @@
 
 ###
 
-<h4 align="left">❤ Sobre mim:<br><br>- 📚 Atualmente estudando Engenharia de Software na Universidade Cruzeiro do Sul.<br>- 💼 Buscando estágios e oportunidades na área de Full-Stack, Analista De Dados.<br>- 🌟 Sempre interessada em aprender novas tecnologias e colaborar em projetos interessantes.</h4>
+<h2 align="left">❤ Sobre mim:</h2>
+
+###
+
+<p align="left">- 📚 Atualmente estudando Engenharia de Software na Universidade Cruzeiro do Sul<br>- 💼 Buscando estágios e oportunidades na área de Full-Stack, Analista De Dados<br>- 🌟 Sempre interessada em aprender novas tecnologias e colaborar em projetos interessantes.</p>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<p align="left">Estatistica GitHub 📊</p>
+<h2 align="left">Estatistica GitHub 📊</h2>
 
 ###
 
@@ -25,7 +29,7 @@
 
 ###
 
-<p align="left">Linguagens e Tecnologias:</p>
+<h2 align="left">Linguagens e Tecnologias:</h2>
 
 ###
 
@@ -57,7 +61,7 @@
 
 ###
 
-<p align="left">Contatos 📱</p>
+<h2 align="left">Contatos 📱</h2>
 
 ###
 
@@ -72,6 +76,8 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
 
 ###
 
